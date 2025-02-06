@@ -48,5 +48,5 @@
 
 ## 실습 Tool 선정
 실습 부하테스트 Tool은 k6를 사용해 진행 합니다.
-여러 부하테스트 Tool들이 있지만 (jmeter, ngrinder, ab, locust) 사용법이 간단하고 비교적 적은 메모리로 많은 요청 수를 보낼 수 있는 툴 입니다.
+여러 부하테스트 Tool(jmeter, ngrinder, ab, locust)들이 있지만 사용법이 간단하고 비교적 적은 메모리로 많은 요청 수를 보낼 수 있는 툴 입니다.
 * [부하테스트툴 설정](./documents/k6%20설치.md)
