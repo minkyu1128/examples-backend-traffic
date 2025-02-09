@@ -58,9 +58,17 @@
     - [(준비중) EC에 API 서버 셋팅 - SpringBoot + Java](../app-traffic-testing/docs/API%20서버%20설치(Java).md)
 
 2) 부하 테스트
-부하테스트를 
     - [EC에 부하 테스트 툴 셋팅](../app-traffic-testing/docs/k6%20설치.md)
+    - [부하 테스트 시작과 결과 해석](../app-traffic-testing/docs/부하테스트.md)
 
 
+
+## 테스트 요약
+
+* 점진적으로 트래픽을 증가시켜 구성한 시스템이 1초당 몇개의 요청을 견딜 수 있는지 알아본다.
+* 시스템의 구성과 트래픽을 실제 상황과 유사하게 구사할수록 좋습니다.
+* 
 
 [Grafana k6 공식문서](https://grafana.com/docs/k6/latest/)
+
+
